@@ -26,7 +26,7 @@ An Ansible custom module to push commands for JUPITER VSAT Modem device.
     first_host_ip: "{{ FirstHostIP }}"
     first_host_usr: "{{ FirstHostUsername }}"
     first_host_pass: "{{ FirstHostPassword }}"
-    sec_host_ip: "{{ ModemSerialNumber }}"
+    sec_host_ip: "{{ ModemIP }}"
     sec_host_usr: "{{ ModemUsername }}"
     sec_host_pass: "{{ ModemPassword }}"
 ```
