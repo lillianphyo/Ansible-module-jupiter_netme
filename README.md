@@ -1,5 +1,7 @@
 # Ansible Module: jupiter_netme
 
+https://www.hughes.com/technologies/broadband-satellite-systems/jupiter-system
+
 ## Usage
 
 An Ansible custom module to push commands for JUPITER VSAT Modem device.
